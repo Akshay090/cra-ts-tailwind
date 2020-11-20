@@ -23,8 +23,8 @@ module.exports = {
         // e.g. "@typescript-eslint/explicit-function-return-type": "off",
 
         '@typescript-eslint/no-empty-interface': 'off',
-
         'no-unused-vars': [1, { varsIgnorePattern: '^_', argsIgnorePattern: '^_' }],
         '@typescript-eslint/no-unused-vars': [1, { varsIgnorePattern: '^_', argsIgnorePattern: '^_' }],
+        'prettier/prettier': 'warn',
     },
 };

@@ -3,18 +3,18 @@
     "version": "0.1.0",
     "private": true,
     "dependencies": {
-        "@testing-library/jest-dom": "^5.11.5",
-        "@testing-library/react": "^11.1.0",
-        "@testing-library/user-event": "^12.1.10",
+        "@testing-library/jest-dom": "^5.11.6",
+        "@testing-library/react": "^11.2.1",
+        "@testing-library/user-event": "^12.2.2",
         "@types/jest": "^26.0.15",
-        "@types/node": "^14.14.5",
-        "@types/react": "^16.9.54",
+        "@types/node": "^14.14.9",
+        "@types/react": "^16.14.0",
         "@types/react-dom": "^16.9.9",
-        "postcss": "^8.1.4",
+        "postcss": "^8.1.8",
         "react": "^17.0.1",
         "react-dom": "^17.0.1",
         "react-scripts": "4.0.0",
-        "typescript": "~4.0.5"
+        "typescript": "~4.1.2"
     },
     "husky": {
         "hooks": {
@@ -54,19 +54,18 @@
         ]
     },
     "devDependencies": {
-        "@typescript-eslint/eslint-plugin": "^4.6.0",
-        "@typescript-eslint/parser": "^4.6.0",
-        "autoprefixer": "^10.0.1",
-        "babel-loader": "^8.1.0",
+        "@typescript-eslint/eslint-plugin": "^4.8.1",
+        "@typescript-eslint/parser": "^4.8.1",
+        "autoprefixer": "^10.0.2",
         "eslint-config-prettier": "^6.15.0",
         "eslint-plugin-prettier": "^3.1.4",
         "eslint-plugin-react": "^7.21.5",
         "husky": "^4.3.0",
-        "lint-staged": "^10.5.0",
-        "postcss-cli": "^8.1.0",
-        "prettier": "^2.1.2",
+        "lint-staged": "^10.5.1",
+        "postcss-cli": "^8.3.0",
+        "prettier": "^2.2.0",
         "prettier-plugin-tailwind-css": "^1.4.0",
         "react-is": "^17.0.1",
-        "tailwindcss": "^1.9.6"
+        "tailwindcss": "^2.0.1"
     }
 }
